@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Client want to create an user in the Utest Page" tests="1" skipped="1" failures="0" errors="0" timestamp="2021-03-09T05:22:48" hostname="JUAN-PC" time="0.143">
+  <properties/>
+  <testcase name="Create new user on Utest page" classname="Client want to create an user in the Utest Page" time="0.143">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@6dad705
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2ed4196e
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@213a565f
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@72a54d38
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@2d892697
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7ed9f53c
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1e29c017
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@5320ac32
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3bb8b049
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@317aee0
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@22e0f7a1
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@527357e2
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Create new user on Utest page:Given user browsed to utest page to create a new utest user, When client provide information on the step 1
+| strName | strLastName | strEmail | dateBird | strLenguaje |, And client clicks in button next location, Then client goes to the step 2, When client provide information on step2
+| strCity | strZipCode | strCountry |, And client clicks on next devices button, Then client goes to step3, When client provide information on step 3
+| strYourComputer | strVersion | strLenguage | strYourMobileDevice | strModel | strOperingSystem |, And client clicks on next last step, When cliente provide information on last step
+| strPassword | strConfirmPassword | boolStayInformed | boolReadTerms | boolAcceptPolicy |, And client clicks on complete setup, Then client created utest user
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Create new user on Utest page:Given user browsed to utest page to create a new utest user, When client provide information on the step 1
+| strName | strLastName | strEmail | dateBird | strLenguaje |, And client clicks in button next location, Then client goes to the step 2, When client provide information on step2
+| strCity | strZipCode | strCountry |, And client clicks on next devices button, Then client goes to step3, When client provide information on step 3
+| strYourComputer | strVersion | strLenguage | strYourMobileDevice | strModel | strOperingSystem |, And client clicks on next last step, When cliente provide information on last step
+| strPassword | strConfirmPassword | boolStayInformed | boolReadTerms | boolAcceptPolicy |, And client clicks on complete setup, Then client created utest user]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Create new user on Utest page:Given user browsed to utest page to create a new utest user, When client provide information on the step 1
+| strName | strLastName | strEmail | dateBird | strLenguaje |, And client clicks in button next location, Then client goes to the step 2, When client provide information on step2
+| strCity | strZipCode | strCountry |, And client clicks on next devices button, Then client goes to step3, When client provide information on step 3
+| strYourComputer | strVersion | strLenguage | strYourMobileDevice | strModel | strOperingSystem |, And client clicks on next last step, When cliente provide information on last step
+| strPassword | strConfirmPassword | boolStayInformed | boolReadTerms | boolAcceptPolicy |, And client clicks on complete setup, Then client created utest user]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Create new user on Utest page
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
